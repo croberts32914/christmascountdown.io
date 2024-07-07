@@ -1,5 +1,5 @@
 // Set the date of your trip
-const tripDate = new Date("August 25, 2024 19:00:00").getTime();
+const tripDate = new Date("December 25, 2024 19:00:00").getTime();
 
 // Update the countdown every second
 const countdown = setInterval(function() {
