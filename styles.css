@@ -22,7 +22,7 @@ body {
 
 .countdown-container {
   text-align: center;
-    background-color: red;
+  background: linear-gradient(to right, red, green); /* Creates a gradient from red to green */
   /* Set the background color of .countdown-container to white */
   padding: 20px;
   /* Add some padding for better spacing */
