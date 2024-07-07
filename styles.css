@@ -22,7 +22,7 @@ body {
 
 .countdown-container {
   text-align: center;
-    background-color: white;
+    background-color: red;
   /* Set the background color of .countdown-container to white */
   padding: 20px;
   /* Add some padding for better spacing */
