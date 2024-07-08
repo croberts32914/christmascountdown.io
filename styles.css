@@ -8,11 +8,11 @@ body {
   margin: 0;
   background-size: cover;
   /* Stretch the background image to cover the entire page */
-   background-repeat: no-repeat;
-    /* Prevent the background image from repeating */
-     background-position: center;
-      align-items: flex-end;
-        /* Align items at the bottom */
+  background-repeat: no-repeat;
+  /* Prevent the background image from repeating */
+  background-position: center;
+  align-items: flex-end;
+  /* Align items at the bottom */
 }
 
 .countdown-container {
@@ -22,12 +22,10 @@ body {
 
 .countdown-container {
   text-align: center;
-  background: linear-gradient(to right, green, red, green); /* Creates a gradient from red to green */
-  /* Set the background color of .countdown-container to white */
   padding: 20px;
-  /* Add some padding for better spacing */
   border-radius: 10px;
-  /* Optional: Add border radius for a rounded look */
+  background: radial-gradient(circle, #00B4AB 30%, #f84235 60%, silver 90%);
+  /* Set the radial gradient as the background */
 }
 
 #countdown {
